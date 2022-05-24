@@ -1,3 +1,72 @@
+/* Header parts  */
+
+header {
+  background: #283b63;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 20px;
+  flex-direction: row;
+  border: 2px solid rgb(255, 0, 221);
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid rgb(111, 0, 255);
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid rgb(0, 255, 34);
+}
+
+li {
+  display:inline;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 10px;
+  border: 2px solid rgb(255, 0, 0);
+}
+
+
+/* Landing page parts  */
+
+.landing_page {
+  border: 2px solid rgba(0, 255, 179, 0.493);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.landing_left_side {
+  border: 2px solid rgb(0, 255, 34);
+
+}
+
+.title_1 {
+  border: 2px solid rgb(38, 0, 255);
+
+}
+
+.landing_right_side {
+  border: 2px solid rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+
+/* Calculation parts  */
+
+
 .lean_button {
   background-color: #4caf50;
   border: none;
