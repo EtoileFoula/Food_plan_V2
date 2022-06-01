@@ -8,7 +8,7 @@ Multiplicateur d’activité :
 1.2 = 1 à 2 fois/semaine
 1.35 = 3 à 5 fois/semaine
 1.45 = 6 à 7 fois/semaine
-1.6 à 1.8 = 6 à 7 fois/semaine
+1.6 à 1.8 = 6 à 7 fois/semaine et travail physique
 L’objectif de prise de masse (%)
 Ou l’objectif de sèche (%)
 
